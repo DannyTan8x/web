@@ -16,7 +16,7 @@ html{
 
 body {
  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
- background-color: #ff;
+ background-color: #fff;
  line-height: 1.4;
 }
 
